@@ -3,7 +3,7 @@ import "../Game.css";
 const Footer = () => {
   return (
     <div className="footer">
-      <button>New Game1234</button>
+      <button>New Game12345</button>
     </div>
   );
 };
